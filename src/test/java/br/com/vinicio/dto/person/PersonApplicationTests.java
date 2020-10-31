@@ -1,4 +1,4 @@
-package br.com.vinicio.person;
+package br.com.vinicio.dto.person;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
